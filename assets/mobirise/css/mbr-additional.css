@@ -2371,6 +2371,31 @@ body {
     flex-basis: 33%;
   }
 }
+.cid-rtelYhLZKm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #247846;
+}
+.cid-rtelYhLZKm P {
+  color: #767676;
+}
+.cid-rtelYhLZKm .mbr-text,
+.cid-rtelYhLZKm .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rtemYhKsVO {
+  background: #247846;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rtemYhKsVO .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rtemYhKsVO .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rt39uDmcBy {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2438,7 +2463,7 @@ body {
 .cid-rt3fd8XPJT {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #e4d295;
+  background-color: #cccccc;
 }
 .cid-rt3fd8XPJT .mbr-text {
   color: #767676;
@@ -2522,37 +2547,6 @@ body {
   .cid-rt2zN6fHXK .card:not(.last-child) {
     padding-bottom: 2rem;
   }
-}
-.cid-rtdzqYiSEf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
-}
-.cid-rtdzqYiSEf .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rtdzqYiSEf .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rtdzqYiSEf .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rtdzqYiSEf .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rtdzqYiSEf .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-rt582po3WZ {
   padding-top: 90px;
